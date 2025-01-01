@@ -1,4 +1,5 @@
-// src/App.js
+// Author - Rahul Somase
+
 import React from "react";
 import "./App.css";
 import Weather from "./Weather";

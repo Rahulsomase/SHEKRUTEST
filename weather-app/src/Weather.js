@@ -1,4 +1,4 @@
-// src/Weather.js
+// Author - Rahul Somase
 import React, { useState } from "react";
 import axios from "axios";
 
